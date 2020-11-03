@@ -4,7 +4,7 @@
 - 📫 Reach me on wechat: mengxiangzhi001
 - 🔭 I’m currently working on ASIC logic design. I am also interested in Perl/Python/UVM/Design flow/Design methodology;
 - 🌱 I’m currently learning UVM verification /Python /AI /Ethernet;
-- ⚡ Fun: I would like to take photos and essay writing. And I am one member of Toastmaster Club;
+- ⚡ Fun: I would like to take photos and essay writing. And I am one member of Toastmasters Club;
 - ⚡ Blog: [https://dadongshangu.github.io/](https://dadongshangu.github.io/)
 - ⚡ Wechat official account on essay: [大东山谷](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1417552598718332928&__biz=MzIxMjYyMDA2Nw==#wechat_redirect)
 - ⚡ Wechat official account on ASIC design: [数字逻辑电路小站](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1500515973546754049&__biz=MzIxMjg2ODQxMw==#wechat_redirect)
