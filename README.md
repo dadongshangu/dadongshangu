@@ -1,7 +1,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dadongshangu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 Reach me on mail: dadongshangu@outlook.com
-- 📫 Reach me on wechat: mengxiangzhi001
+- 📫 Reach me on wechat: ddvalley
 - 🔭 I’m currently working on ASIC logic design. I am also interested in Perl/Python/UVM/Design flow/Design methodology;
 - 🌱 I’m currently learning UVM verification /Python /AI /Ethernet;
 - ⚡ Fun: I would like to take photos and essay writing. And I am one member of Toastmasters Club;
